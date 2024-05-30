@@ -9,6 +9,6 @@ func main() {
 	fmt.Scan(&n)
 
 	for i:=0;i<n;i++{
-		fmt.Print("hasil",i++)
+		fmt.Print(i++)
 	}
 }
